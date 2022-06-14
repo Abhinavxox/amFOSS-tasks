@@ -1,4 +1,4 @@
-##Flutter-based UI task
+Flutter-based UI task
 
 This task was very fun to do. I started by learning the basics and was doing the coding by myself. Then i used the introduction screen package. It was really helpful and i completed the app as suggested in the task. The materials used were as follows:
 
