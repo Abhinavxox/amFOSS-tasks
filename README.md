@@ -72,7 +72,7 @@
 
 <tr>
 <td><a href="https://github.com/abhinavxox/amFOSS-tasks/tree/master/task-10">Task-10</a></td>
-<td>CS5</td>
+<td>CS50</td>
 <td>Completed</td>
 </tr>
 
