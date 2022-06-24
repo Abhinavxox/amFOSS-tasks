@@ -3,23 +3,112 @@
 # ABHINAV PANDEY
 
 ## Summary Of Task:-
+<table>
+<tr>
+<th>Task</th>
+<th>Description</th>
+<th>Status</th>
+</tr>
 
-| TASK | DESCRIPTION          | STATUS                  |
-| ---- | -------------------- | ----------------------- |
-| 0    | Installing Ubuntu    | Completed               |
-| 1    | Star the amFOSS repo | Completed               |
-| 2    | Linxu and Git        | Completed               |
-| 3    | Programming          | 3 Questions Done        |
-| 4    | Aerglo Mars          | Completed               |
-| 5    | C debugging          | Completed               |
-| 6    | Flutter based UI     | Completed               |
-| 8    | JSExplorer           | Completed               |
-| 9    | Personal Website     | Completed               |
-| 10   | CS50                 | Completed till 4 weeks  |
-| 11   | Poster Design        | Completed               |
-| 14   | Bandit               | Completed till level 10 |
+<tr>
+<td><a href="https://github.com/abhinavxox/amFOSS-tasks/tree/master/task-0">Task-0</a></td>
+<td>Installing Ubuntu</td>
+<td>Completed </td>
+</tr>
 
-## How I approach each task?
+<tr>
+<td><a href="https://github.com/abhinavxox/amFOSS-tasks/tree/master/task-1">Task-1</a></td>
+<td>Staring amFOSS repositories</td>
+<td>Completed</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/abhinavxox/amFOSS-tasks/tree/master/task-2">Task-2</a></td>
+<td>Begin your journey with Linux and Git</td>
+<td>Completed</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/abhinavxox/amFOSS-tasks/tree/master/task-3">Task-3</a></td>
+<td>Programming</td>
+<td>Completed</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/abhinavxox/amFOSS-tasks/tree/master/task-4">Task-4</a></td>
+<td>Aerglo Mars</td>
+<td>Completed</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/abhinavxox/amFOSS-tasks/tree/master/task-5">Task-5</a></td>
+<td>Let me C</td>
+<td>Completed</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/abhinavxox/amFOSS-tasks/tree/master/task-6">Task-6</a></td>
+<td>Flutter based UI task</td>
+<td>Completed</td>
+</tr>
+
+<tr>
+<td>Task-7</td>
+<td>Rich Scraper</td>
+<td>Not Attempted</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/abhinavxox/amFOSS-tasks/tree/master/task-8">Task-8</a></td>
+<td>JS Explorer</td>
+<td>Completed</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/abhinavxox/amFOSS-tasks/tree/master/task-9">Task-9</a></td>
+<td>Setup a Simple Personal Website</td>
+<td>Completed</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/abhinavxox/amFOSS-tasks/tree/master/task-10">Task-10</a></td>
+<td>CS5</td>
+<td>Completed</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/abhinavxox/amFOSS-tasks/tree/master/task-11">Task-11</a></td>
+<td>Poster Design</td>
+<td>Completed</td>
+</tr>
+
+<tr>
+<td>Task-12</td>
+<td>Make the Block</td>
+<td>Not Attempted</td>
+</tr>
+
+<tr>
+<td>Task-13</td>
+<td>Circuit Design</td>
+<td>Not Attempted</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/abhinavxox/amFOSS-tasks/tree/master/task-14">Task-14</a></td>
+<td>Bandit</td>
+<td>Not Attempted</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/abhinavxox/amFOSS-tasks/tree/master/task-15">Task-15</a></td>
+<td>Project Euler</td>
+<td>Completed</td>
+</tr>
+
+</table>
+
+## How I approached each task?
 
 Task - 0: I was a great experience learning how to dual boot with windows. I watched a lot of videos on youtube then only proceeded.
 
@@ -44,4 +133,6 @@ Task - 10: Scratch was easy I already knew it so wasn't difficul. In week-1, I h
 
 Task - 11: I wanted to display all my plans like making connection, being productive, growing myself in a single poster but this task turned out quite intresting.
 
-Task - 15: I learned and took refrences from google but understood the concept of grep, string, find, etc.
+Task - 14: I learned and took refrences from google but understood the concept of grep, string, find, etc.
+
+Task - 15: FIrst I tried hard coding, and solved every question but the complexity was a problem, so I learned new algorithms with less complexity and solved the problems.
