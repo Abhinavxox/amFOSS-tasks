@@ -31,7 +31,7 @@
 <tr>
 <td><a href="https://github.com/abhinavxox/amFOSS-tasks/tree/master/task-3">Task-3</a></td>
 <td>Programming</td>
-<td>Completed</td>
+<td>Attempted</td>
 </tr>
 
 <tr>
@@ -97,7 +97,7 @@
 <tr>
 <td><a href="https://github.com/abhinavxox/amFOSS-tasks/tree/master/task-14">Task-14</a></td>
 <td>Bandit</td>
-<td>Not Attempted</td>
+<td>Completed</td>
 </tr>
 
 <tr>
