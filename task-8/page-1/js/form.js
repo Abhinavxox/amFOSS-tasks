@@ -1,8 +1,17 @@
 "use strict";
 
-const reset = function(){
-  window.location.reload(true);
-}
+const reset = function () {
+  document.forms["myForm"]["name"].value == "";
+  document.forms["myForm"]["home-address"].value == "";
+  document.forms["myForm"]["email"].value == "";
+  document.forms["myForm"]["phone-number"].value == "";
+  document.getElementById("gender-male").checked = false;
+  document.getElementById("gender-female").checked = false;
+  document.getElementById("pizza-crusts-thin").checked = false;
+  document.getElementById("pizza-crusts-deep").checked = false;
+  document.getElementById("pizza-crusts-pan").checked = false;
+  document.getElementById("pizza-crusts-stuffed").checked = false;
+};
 
 const validate = function () {
   if (document.forms["myForm"]["name"].value == "") {
@@ -51,7 +60,3 @@ document.getElementById("next_btn").addEventListener("click", function () {
     }, 1000);
   }
 });
-document.getElementById("reset").addEventListener("click",function(){
-  window.open("form.html", "_self")
-});
-
